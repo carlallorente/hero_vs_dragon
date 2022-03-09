@@ -15,3 +15,4 @@ The game consist on a fight between a dragon and a hero.
 6. After, the damage caused by the dragon will be subtracted from the total points the hero has at the beginning.
 7. The same process is repeated with the hero. First the dragon attack, and then the hero.
 8. The if statements indicate that when the hero or the dragon have less than 0 points, one will be death and the game will be finished (input("Round over. Press any key"))
+
