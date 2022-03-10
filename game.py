@@ -31,4 +31,4 @@ while True:
     if dragon_hp <= 0:
         print("Our valiant hero has slain the dragon!")
         break
-input("Round over. Press any key")
+    input("Round over. Press any key")
