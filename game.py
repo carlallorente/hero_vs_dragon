@@ -1,10 +1,7 @@
 import random
 # import random is a simple library that implements the random number generator behavior
 # Please read into the variables below the correct numbers. Use try and except to catch error.
-hero_hp = 50
-dragon_hp = 100
-hero_max_dmg = 20
-dragon_max_dmg = 10
+
 try:
     dragon_hp=int(input("how many hp does the dragon have?"))
     hero_hp = int(input("how many hp does the hero have?"))
